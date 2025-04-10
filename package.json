@@ -1,0 +1,13 @@
+{
+  "name": "com.skillissue.savesystem",
+  "displayName": "Save System",
+  "version": "1.0.0",
+  "unity": "6.0",
+  "description": "A modular save system package for Unity.",
+  "keywords": ["save", "system", "game"],
+  "author": {
+    "name": "Skill Issue Software",
+    "email": "skillissuemarketing@gmail.com",
+    "url": "https://github.com/Skill-Issue-Software"
+  }
+}
